@@ -2,4 +2,4 @@
 
 namespace VendorName\Skeleton;
 
-class SkeletonClass {}
+class SslCommerz {}
